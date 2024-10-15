@@ -49,7 +49,7 @@ h3{
 
 .hero {
   background-image: url(../images/apple-pie.jpg);
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   height: 300px;
